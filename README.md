@@ -8,3 +8,7 @@ Do you want to earn $3000 in three months? Do you want to get valuable industry 
 - Create a new file named \<yourname\>.txt
 - Add your details based on the file "Sample.txt" which already exists
 - Send a Pull Request for the changes you have made
+
+## Feedback
+
+You can submit your feedback for the session using this link [https://goo.gl/forms/AORRrCs3ELVaUYXr1](https://goo.gl/forms/AORRrCs3ELVaUYXr1)
