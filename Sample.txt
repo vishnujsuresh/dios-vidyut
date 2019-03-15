@@ -9,8 +9,8 @@ Details
 
 You can fill the details using the following template
 
-- Name:       <your name here>
-- Email:      <your mail here>
-- Vidyut Id:  <your vidyut id here>
-- College:    <your college name here>
-- Place:      <your place>
+- Name:     vishnu 
+- Email:     mannnathichi@gmail.com
+- Vidyut Id:  v1941478
+- College:    cemp
+- Place:     alappuzha
