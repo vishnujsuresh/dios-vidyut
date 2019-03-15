@@ -4,6 +4,7 @@ Details
 - Email:      sample@gmail.com
 - Vidyut Id:  V91305
 - College:    Amrita Vishwa Vidyapeetham
+- Place:      Kollam
 
 
 You can fill the details using the following template
@@ -12,3 +13,4 @@ You can fill the details using the following template
 - Email:      <your mail here>
 - Vidyut Id:  <your vidyut id here>
 - College:    <your college name here>
+- Place:      <your place>
