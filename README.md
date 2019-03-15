@@ -17,3 +17,4 @@ Do you want to earn $3000 in three months? Do you want to get valuable industry 
 - Email:      abc@gmail.com
 - Vidyut Id:  V91305
 - College:    Amrita Vishwa Vidyapeetham
+- Place:      Kollam
